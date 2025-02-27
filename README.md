@@ -54,4 +54,8 @@ G40,high,yes,excellent,yes
 
 ### OUTPUT:
 
+![Screenshot 2025-02-27 154002](https://github.com/user-attachments/assets/6f01acf7-23cf-4bde-9404-888d61fdad18)
+
 ### RESULT: 
+
+Hence the program has been executed successfully .
